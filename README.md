@@ -1,2 +1,2 @@
 # CalmJoe.github.io
--=strange things=-
+-=strange stuff=-
